@@ -3,3 +3,14 @@ def factorial(n):
         return 1
     else:
         return n * factorial(n - 1)
+
+
+A	B	C	F
+0	0	0	1
+0	0	1	0
+0	1	0	1
+0	1	1	0
+1	0	0	1
+1	0	1	0
+1	1	0	1
+1	1	1	1
