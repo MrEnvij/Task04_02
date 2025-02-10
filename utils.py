@@ -14,3 +14,4 @@ A	B	C	F
 1	0	1	0
 1	1	0	1
 1	1	1	1
+/ if n < 2:\n return false
